@@ -1,0 +1,274 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.wraper {
+  height: 100vh;
+  margin: auto;
+}
+.main {
+  background-image: url("не_кампудахтер.png");
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  color: white;
+}
+.main_title {
+  text-transform: uppercase;
+  color: white;
+  font-size: 86px;
+  text-align: center;
+  padding: 50px;
+  font-family: "Josefin Sans", sans-serif;
+}
+.textp {
+  padding: 14px;
+}
+
+.ssulka {
+  display: block;
+  font-family: "Poppins";
+  font-weight: 600;
+  width: 210px;
+  height: 50px;
+  background-color: white;
+  text-align: center;
+  padding-top: 20px;
+  color: black;
+  margin: auto;
+  text-decoration: none;
+  font-size: 18px;
+  margin-top: 50px;
+  transition: all 0.3s ease;
+}
+.ssulka:hover {
+  background-color: #1a1a1a;
+  color: #fff;
+}
+.knopka {
+  padding-bottom: 200px;
+  padding-top: 80px;
+  font-family: "Roboto", sans-serif;
+  color: white;
+}
+.stornoway {
+  text-decoration: none;
+  font-size: 25px;
+  padding-right: 500px;
+  color: white;
+}
+.about {
+  text-decoration: none;
+  font-size: 18px;
+  margin-left: 44px;
+  transition: all 0.4s;
+  position: relative;
+  overflow: hidden;
+  color: white;
+}
+.about:hover {
+  border-bottom: 1px solid #fff;
+}
+.blok2 {
+  background-color: white;
+  height: 100vh;
+}
+.box1 {
+  width: 733px;
+  height: 483px;
+  margin: auto;
+  margin-top: 150px;
+}
+.h2-blok2 {
+  font-size: 70px;
+  color: black;
+  font-family: "Poppins", sans-serif;
+}
+.content {
+  display: flex;
+  text-align: center;
+  height: 100vh;
+  margin: auto;
+}
+.span-blok2 {
+  font-size: 23px;
+}
+.read {
+  display: block;
+  font-family: "Poppins";
+  font-weight: 600;
+  width: 210px;
+  height: 50px;
+  background-color: black;
+  text-align: center;
+  padding-top: 20px;
+  color: white;
+  margin: auto;
+  text-decoration: none;
+  font-size: 18px;
+  margin-top: 50px;
+  transition: all 0.3s ease;
+}
+.read:hover {
+  background-color: #2e3538;
+  color: #fff;
+}
+.blok3 {
+  background-color: black;
+}
+.h2-blok3 {
+  font-size: 70px;
+  color: white;
+  font-family: "Roboto", sans-serif;
+  padding-top: 111px;
+  padding-bottom: 82px;
+}
+
+.img-1 {
+  margin-left: 210px;
+  width: 350px;
+}
+.img-2 {
+  margin-left: 13px;
+  margin-right: 13px;
+  width: 350px;
+}
+.img-3 {
+  margin-right: 210px;
+  width: 350px;
+}
+.see {
+  display: block;
+  font-family: "Poppins";
+  font-weight: 600;
+  width: 210px;
+  height: 50px;
+  background-color: white;
+  text-align: center;
+  padding-top: 20px;
+  color: black;
+  margin: auto;
+  text-decoration: none;
+  font-size: 18px;
+  margin-top: 50px;
+  transition: all 0.3s ease;
+}
+.see:hover {
+  background-color: #1a1a1a;
+  color: white;
+}
+.box3 {
+  display: flex;
+}
+.contener1 {
+  height: 400px;
+  width: 450px;
+  padding-top: 188px;
+  margin-left: 253px;
+}
+.contener2 {
+  height: 400px;
+  width: 500px;
+  margin-left: 130px;
+  padding-top: 188px;
+}
+.h2-blok4 {
+  font-family: "Poppins";
+  font-size: 60px;
+  padding-bottom: 10px;
+}
+.span-blok4 {
+  font-family: "Poppins";
+  font-size: 15px;
+}
+.contener {
+  display: flex;
+  height: 100vh;
+  margin: auto;
+}
+.more {
+  display: block;
+  font-family: "Poppins";
+  font-weight: 600;
+  width: 210px;
+  height: 50px;
+  background-color: black;
+  padding-top: 20px;
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  margin-top: 50px;
+  transition: all 0.3s ease;
+  text-align: center;
+}
+.more:hover {
+  background-color: #2e3538;
+}
+.p-blok4 {
+  font-family: "Poppins";
+  font-size: 17px;
+}
+.span-contener2 {
+  font-size: 70px;
+  padding-right: 10px;
+  padding-top: 30px;
+  padding-bottom: 40px;
+  font-family: "Poppins";
+}
+.p-contener2 {
+  font-size: 30px;
+
+  font-family: "Poppins";
+}
+.contentincontener {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.contentmain {
+  background-image: url("беграунд.jpg");
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+
+  color: white;
+  margin: auto;
+}
+.box5 {
+  height: 470px;
+  width: 400px;
+  color: black;
+  margin-left: 970px;
+  margin-top: 200px;
+}
+.careers {
+  font-size: 60px;
+  padding-bottom: 20px;
+  font-family: "Poppins";
+}
+.p-box5 {
+  font-size: 16px;
+  font-family: "Poppins";
+}
+.contenerfooter {
+  background-color: black;
+  height: 50vh;
+  color: white;
+}
+.foot2 {
+  width: 200px;
+  height: 200px;
+  font-family: "Poppins";
+  font-size: 16px;
+  margin-left: 1150px;
+  padding: auto;
+}
+.h2footer {
+     padding-top: 100px;
+    padding-left: 100px; 
+    font-family: "Roboto", sans-serif;
+    color: white;
+}
+.p2{
+  padding-bottom: 40px;
+}
